@@ -1,7 +1,7 @@
 
 # Wingify_Assignment
 
-This respository represents a test scenario for a login page using Cypress, a JavaScript end-to-end testing framework. The test aims to verify that users can successfully log in with valid credentials. Here's a description of the code:
+This repository represents a test scenario for a different page using Cypress, a JavaScript end-to-end testing framework. The test aims to verify that users can successfully log in with valid credentials. Here's a description of the code:
 
 #Test On the Login Page
 
